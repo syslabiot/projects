@@ -1,0 +1,27 @@
+.container {
+	height: 540px;
+	width: 720px;
+	position: relative;
+}
+#img {
+	height: 540px;
+	width: 720px;
+	position: absolute;
+}
+.left {
+	height: 540px;
+	width: 80px;
+	position: absolute;
+}
+.right {
+	right: 100px;
+	height: 540px;
+	width: 80px;
+	position: absolute;
+}
+.arrow {
+	top: 45%;
+	height: 40px;
+	width: 40px;
+	position: absolute;
+}
