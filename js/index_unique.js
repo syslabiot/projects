@@ -19,9 +19,9 @@ physicist2.addEventListener("mouseenter", fetch);
 
 function fetch() {
  var Images = document.querySelectorAll("img");
- for (var i = 0; i < Images.length; i++) {
- 	Images[i].className = "hide";
- }
+ // for (var i = 0; i < Images.length; i++) {
+ // 	Images[i].className = "hide";
+ // }
  var PicId = this.attributes["data-img"].value;
  var Pic = document.getElementById(PicId);
  if (Pic.className === "hide") {

@@ -15,11 +15,10 @@ img#im {
 .item{
 	height: 647px;
 }
-form.navbar-form.navbar-left {
+/*form.navbar-form.navbar-left {
 	margin-left: 270px;
-}
+}*/
 ul.nav.navbar-nav{
-	margin-left: 185px;
 	font-color: #000000;
 }
 div.dropdown {
